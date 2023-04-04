@@ -1,0 +1,59 @@
+body{
+    background:linear-gradient(to left, green , blue);
+}
+.p, .sub,.admin ,.d{
+    margin: 20px;
+    padding: 5px;
+   text-align: center;
+    height:40px;
+    width: 90%;
+    border: 2px dotted black;
+    border-radius: 5px;
+    background-color: lavender;
+}
+.auth{
+    margin-top: 50px;
+    margin-left: 300px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    border: 2px  black;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+    font-size: larger;
+
+}
+.a{
+    margin: 20px;
+    border: 2px  black;
+    border-radius: 5px;
+    background: lavender;
+    height: 250px;
+    width: 90%;
+}
+.a h1, h2, h3, h4, h5{
+    text-align: center;
+}
+.b{
+    margin: 25px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    width: 90%;
+    border: 2px  black;
+    border-radius: 5px;
+    background: lavender;
+}
+.c{
+    margin: 25px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    border: 2px  black;
+    border-radius: 5px;
+    background: lavender;
+    height: 250px;
+    width: 90%;
+}
